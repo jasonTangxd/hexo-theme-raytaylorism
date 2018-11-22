@@ -1,15 +1,15 @@
 {
-    "avatar": "http://ww2.sinaimg.cn/small/74990035jw1f1rjkd681bj20rs0rsdhg.jpg",
-    "name": "你的大名",
-	"tag": "Web前端/iOS/技术宅",
-    "desc": "你的简介（建议一两句话）",
+    "avatar": "https://img.xiaoxiaomo.com/blog/img/head1.jpg",
+    "name": "小小默",
+	"tag": "java/大数据/技术宅",
+    "desc": "路途遥远 | 勿忘初心",
     "skills": {
-        "Javascript": 8,
-		"Python": 6,
+        "Java": 7,
+		"Hadoop": 8,
 		
-		"invisible-split-line-1": -1,
+		"Spark": 7,
 
-		"Node.js": 4
+		"Linux": 5
     },
     "projects": [{
 		"name": "你的项目A",

@@ -1,11 +1,16 @@
 {
     "social": {
-        "weibo": "http://weibo.com/1956184117",
-        "github": "https://github.com/raytaylorlin",
-		"rss": "/atom.xml"
+        "weibo": "http://weibo.com/tangxuandong",
+        "github": "https://github.com/jasonTangxd",
+        "rss": "/atom.xml"
     },
     "extern": {
-	    "raytaylorism主题作者的技术博客": "http://raytaylorlin.com/",
-		"Github地址（测试友情链接）": "https://github.com/raytaylorlin"
+        "菠菜丛林历险记": "http://blog.xiehaibo.cn",
+        "梦想家's Blog": "http://mxjhaima.com/",
+        "Twor": "http://blog.bantwor.com/",
+        "聆听的幻树": "http://blog.csdn.net/u011204847",
+        "TIME渐行渐远": "http://dmlcoding.com",
+        "Sarah's World": "https://sarahzhu.top",
+        "Acexy-博客": "http://www.thankjava.com/"
     }
 }

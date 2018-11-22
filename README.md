@@ -16,7 +16,7 @@ raytaylorism（Ray Taylor主义）是我自己设计并制作的一款清新的�
 
 ```
 cd yourblog
-git clone https://github.com/raytaylorlin/hexo-theme-raytaylorism.git themes/raytaylorism
+git clone git@github.com:jasonTangxd/hexo-theme-raytaylorism.git themes/raytaylorism
 ```
 
 请不定期`git pull`一下主题以便获得最新的功能。**请在pull之前先备份好你原来的配置。**
@@ -89,7 +89,7 @@ search:
 * 样式框架：[Materialize]
 * 代码语法高亮：[Google-code-prettify]
 * 流量分析：[Google Analytics]、[腾讯分析]
-* 第三方社会化评论：[多说]
+* 第三方社会化评论：[畅言]
 
 ## 更新日志
 
@@ -110,7 +110,7 @@ search:
 [历史记录](log.md)
 
 [Hexo]: http://hexo.io/
-[我的博客]: https://raytaylorlin.github.io/
+[我的博客]: http://raytaylorlin.com/
 [Data Files]: https://hexo.io/docs/data-files.html
 [Materializecss色板]: http://materializecss.com/color.html#palette
 [Font Awesome图标]: https://fortawesome.github.io/Font-Awesome/icons/

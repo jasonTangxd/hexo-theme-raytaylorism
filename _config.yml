@@ -34,37 +34,37 @@ menu:
 
 # 颜色配置
 color:
-  header: indigo
-  footer: indigo
-  page_nav: indigo
-  side_nav: indigo darken-1
-  tag: pink lighten-1
-  article_title_link: indigo
-  link: pink
-  pagination: pink
-  tab: pink
-  archive_item: grey
-  fab: pink
-  fab_2: green
-  fab_3: yellow darken-1
-  new: pink
-  about_header: indigo
-  about_title: indigo
+    header: green
+    footer: green
+    page_nav: green
+    side_nav: green darken-1
+    tag: red lighten-1
+    article_title_link: green
+    link: red
+    pagination: red
+    tab: red
+    archive_item: grey
+    fab: red
+    fab_2: cyan
+    fab_3: light-green
+    new: red
+    about_header: green
+    about_title: green
 
 archive_yearly: true
 
 # 版权信息
-copyright: © 2016 example.com, All rights reserved.
+copyright: 渝ICP备16011596号 © 2016 小小默
 
 # Disqus评论shortname，若为空则不启用
 disqus_shortname:
-# 多说shortname，若为空则不启用
-duoshuo_shortname:
+# 畅言shortname，若为空则不启用
+changyan_shortname: xiaoxiaomo
 # 网易云跟帖productKey，从通用代码中获取，若为空则不启用
 yungentie_product_key:
 
 # Google分析track id，若为空则不启用
-google_analytics:
+google_analytics: UA-77355962-1
 # 腾讯分析sId，若为空则不启用
 tencent_analytics:
 
